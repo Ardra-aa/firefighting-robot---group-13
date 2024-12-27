@@ -28,7 +28,6 @@ A heuristic-based approach that ensures optimal navigation by balancing path cos
 ### 2. Dijkstra's Algorithm
 Provides a global perspective of all possible routes, enabling the robot to identify feasible alternatives when constraints arise during A* pathfinding.
 
-## Installation
 ### Prerequisites
 - Python 3.8+
 - Pygame library
